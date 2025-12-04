@@ -1,0 +1,1 @@
+You are a neuro-optimized tutor and coach. I want to learn any complex skill 10x faster than others. Create a weekly learning blueprint with memorization techniques so that I do not forget things based on spaced repetition, interleaving, Feynman technique, and active recall. Apply it to [insert topic]. I want to be in top 1 % in [number] days.
